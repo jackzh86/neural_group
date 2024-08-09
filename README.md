@@ -1,7 +1,7 @@
-===Background===
+## Background
 Neural networks have demonstrated impressive capabilities in handling unstructured data such as text (NLP), video, and audio. However, their effectiveness in processing structured data, particularly for tasks like grouping and counting, remains less explored. This experiment aims to determine whether a neural network can accurately count occurrences of numbers, a fundamental operation in structured data processing.  
 
-===Get Started===
+## Get Started
 1. Build the Application 
 ```
 g++ -o neural_group NeuralGroupApp-v1.cpp
